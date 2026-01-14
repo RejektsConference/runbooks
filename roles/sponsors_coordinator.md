@@ -1,4 +1,4 @@
-# Sponsor
+# Sponsors Coordinator
 
 ## Role description
 
