@@ -51,3 +51,4 @@
 
 ## Reminders or Common Mistakes
 * Use a scheduling tool to post to social media. It's much easier than trying to remember to do it yourself.
+* Receive access / passwords for social accounts and marketing email platform
