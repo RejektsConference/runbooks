@@ -1,4 +1,4 @@
-# Finance
+# Finance Coordinator
 
 Ensure the budget is created and maintained. Pay all the things. Interface with ConferenceOps, our third-party vendor.
 
