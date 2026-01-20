@@ -2,4 +2,4 @@
 
 ## Role description
 
-This organizer role is responsible for creating, updating, and maintaining the rejekts.io website for the city.
+This organizer role is responsible for updating and maintaining the rejekts.io website for the city. 
