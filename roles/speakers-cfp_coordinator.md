@@ -1,8 +1,8 @@
-# Speakers/CFP
+# Program Committee, CFP and Speaker Relations
 
 ## Role description
 
-The CFP committee (or team) is the group of individuals that brings the agenda together for the event. Without the CFP committee, the event would have a challenging time bringing people together to discuss and engage. It takes commitment throughout the year to understand what would bring the best conversations.
+The Program Committee is the group of individuals that brings the agenda together for the event. Without the program committee, the event would have a challenging time bringing people together to discuss and engage. It takes commitment throughout the year to understand what would bring the best conversations.
 
 ### Program Committee
 
