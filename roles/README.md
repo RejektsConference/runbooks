@@ -5,29 +5,31 @@
 
 ## Role description
 
-This role focuses on working with vendors to provide A/V for the conference. That includes recording all talks, having microphones for all speakers, doing a livestream if you're having one, providing power and other things to various areas of the conference, etc.
+This role focuses on securing and working with the AV vendor. Sometimes the venue provides the A/V in-house but other times a vendor needs to be secured externally. This role will need to establish what is needed to successfully execute the conference, depending on the venue and what is provided onsite. This includes ensuring successful recording of all talks, securing and/or designing branded slides for each talk, doing a livestream if you're having one, providing power and other things to various areas of the conference, posting all talks on the Cloud Native Rejekts YouTube channel, etc.
 
 ---
 
-# Finance
+# Finance Coordinator
 
-Ensure the budget is created and maintained. Pay all the things. Interface with ConferenceOps.
+Ensure the budget is created and maintained. Pay all the things. Interface with ConferenceOps, our third-party vendor.
 
 ## Role description
 
-For Finance, the primary responsibility is to establish the budget prior to the conference and keep folks on track to pull off a great conference day-of while leaving enough to get things started again next year (target is 100K USD remaining after the conference is complete, to make a venue deposit, pay vendors before sponsorships start coming in, and pay for ongoing maintenance and conference development costs).
+For Finance, the primary responsibility is to establish the budget prior to the conference and keep folks on track to pull off a great conference day-of while leaving enough to get things started again next year. The target will vary from conference to conference depending on location. The goal is to ensure that there are monies left over for the next conference, make a venue deposit, pay vendors before sponsorships start coming in, and pay for ongoing maintenance and conference development costs.
 
 There is a secondary responsibility which lies with all organizers and volunteers, to keep the entire team updated with a clear understanding of what has been committed to, what has been spent, what reimbursement is needed, and any other information which would affect the financial status of the conference.
 
 ---
 
-# Food
+# Morning Beverages and Snacks
 
-Most venues make their money off of food sales by requiring you to use their vendor or themselves. Depending on the venue, the food organizer may be the same as the venue organizer. If there is a separate food organizer, work closely with the venue lead to make sure everyone gets fed.
+Historically, Rejekts does not provide lunch. We encourage folks to venture around town for a lengthy lunch. We do, however, ensure that we provide good quality coffee and some pastries for our attendees upon their arrival. You will work with the venue coordinator to see what the venue provides/allows. Depending on the venue, the food organizer may be the same as the venue organizer. If there is a separate food organizer, work closely with the venue lead to make sure that the attendees arrive to hot coffee and a light food spread. In some cases, the individual in this role might need to search externally for a vendor. Work with the financial coordinator to secure appropriate budget.
 
 ## Role description
 
-Your job is to make sure that the attendees get breakfast and an afternoon snack each day along with coffee, tea, and other beverages.
+your job is to make sure that the attendees get good quality coffee (including tea and other beverages) upon arrival and some light food like pastries and fruit.
+
+Additional task is to provide a local list of possible lunch options for attendees, within walking distance with various dietary options.
 
 ---
 
@@ -35,20 +37,21 @@ Your job is to make sure that the attendees get breakfast and an afternoon snack
 
 ## Role description
 
-This role is responsible for the image, branding, social media posts, and everything else that has to do with what an attendee or potential attendee sees or hears about this event's Rejekts.
+This role is responsible for the image, branding, social media posts, and everything else that has to do with what an attendee or potential attendee sees or hears about this event's Rejekts. Social media and graphic design skills are a plus.
+
+This individual is also responsible for securing a photographer and/or a videographer for the event. This will ensure that there are promotional materials for all conferences.
 
 ---
 
-# Main Ceremony Host (MC) Role
+# Master of Ceremony (MC) Role
 
 While the MC role is a day-of role that does not have a specific organizer function, there are a number of key elements that are required for a good MC. You can think of a good MC from any awards show or variety show---innocuous, friendly, and lightly entertaining without being abrasive or controversial.
 
 ## Role description
 
-This role is the face of each talk track. The person who fills this role introduces speakers, kicks off and moderates Q&A, fills in empty airtime that isn't taken by a break, and helps a speaker feel more comfortable on stage should technical issues arise or should a speaker speed through their talk.
+This role is the face of the conference. The person who fills this role kicks off the conferernce, fills in empty airtime that isn't taken by a break, makes logistical announcements where needed, moderates the lightning talks if you have them, thanks the sponsors, and closes out the conference on the last day.
 
-* As a fantastic reference, [Heidi Waterhouse wrote up information on how to be a great MC](https://heidiwaterhouse.com/2020/07/09/lady-conference-speaker-now-more-than-ever/#:~:text=of%20your%20talk.-,MC%20work,-One%20of%20my).
-
+This role can be executed by one person, or two people alternating between morning and afternoon, or a duo.
 
 ---
 
@@ -58,17 +61,21 @@ This role is the face of each talk track. The person who fills this role introdu
 
 The role of registration is centered around the idea of supplying tickets to our attendees + vendors + speakers. The registration team needs to collaborate and work with other organizer teams (specifically Website, Swag, and Volunteers) since multiple areas are tightly coupled with the registration organizer team.
 
+This individual will need to set up the registration table the day before the conference, ensuring that everything is ready for the morning. They will work with the venue to ensure the area has what it needs (power, laptops, swag, badges, etc.) Ensure that the area is easily found by attendees, working with the Signage/Swag team.
+
 ---
 
-# Speakers/CFP
+# Program Committee, CFP and Speaker Relations
 
 ## Role description
 
-The CFP committee (or team) is the group of individuals that brings the agenda together for the event. Without the CFP committee, the event would have a challenging time bringing people together to discuss and engage. It takes commitment throughout the year to understand what would bring the best conversations.
+The Program Committee is the group of individuals that brings the agenda together for the event. Without the program committee, the event would have a challenging time bringing people together to discuss and engage. It takes commitment throughout the year to understand what would bring the best conversations.
 
-### Program Committee
+### Program Committee and Speaker Relations
 
-The program committee is a selection of (at least) 5 people who will be voting on the proposed CFPs for our conference, and people selected should reflect a wide cross-section of perspectives when it comes to selecting talks. They will help shape and decide on the agenda and content, though the organizing team will have a final say. All organizers are part of the program committee, ideally, and you should also include some people who are known to be good reviewers in the community. Generally, to avoid favoritism, committee members _should not_ propose talks or should recuse themselves from reviewing their own, or their co-workers, proposals due to conflict of interest.
+The program committee is a selection of (at least) 5 people who will be voting on the proposed CFPs for our conference, and people selected should reflect a wide cross-section of perspectives when it comes to selecting talks. They will help shape and decide on the agenda and content, though the organizing team will have a final say. All organizers are part of the program committee, ideally, and you should also include some people who are known to be good reviewers in the community. Generally, to avoid favoritism, committee members should not propose talks or should recuse themselves from reviewing their own, or their co-workers, proposals due to conflict of interest.
+
+You are responsible for making a schedule for the conference. There have to be two diverse tracks, ample time for the attendees to go have lunch, and the conference should run roughly between 9AM until 6PM. You are also in charge of confirming all of the speakers and ensuring that any changes to schedule are communicated, especially last minute changes which can happen on the day of event. You might have to work with AV to ensure all information on the event YouTube slides are correct.
 
 
 ---
@@ -77,7 +84,7 @@ The program committee is a selection of (at least) 5 people who will be voting o
 
 ## Role description
 
-This role is responsible for managing the interaction with sponsors from sales through the overall execution of the event. You are the primary driver of conference revenue.
+This role is responsible for finalizing the sponsorship prospectus (sponsorship tiers and offerings) working closely with the finance coordinator to ensure that the event is covered by sponsorship monies, as the conference does not charge for attending. The sponsorship coordinator has to identify, reach out to possible sponsors and manage the interaction with sponsors from sales through the overall execution of the event. You have to ensure all sponsors sign contracts. You are the primary driver of conference revenue.
 
 
 ---
@@ -89,26 +96,32 @@ The Rejekts Steering Committee is a guiding body to help Rejekts events run arou
 
 ---
 
-# Swag Coordinator
+# Signage and Swag Coordinator
 
-The SWAG role is responsible for all things SWAG, depending on what you're doing for this event. You'll get everything for attendees, speakers, and organizers/volunteers. This includes something to identify an attendee (e.g., badges and lanyards), giveaways like t-shirts, stickers, and gifts for speakers/organizers/volunteers.
+The Signage and Swag role is responsible for branded signage around the venue, external signage to ensure attendees can find the event and for all things Swag. You will get signage for the stage and podiums, and any other signage to ensure smooth run of event. You'll also get everything for attendees, speakers, and organizers/volunteers. This includes something to identify an attendee (e.g., badges and lanyards), giveaways like t-shirts, stickers, and gifts for speakers/organizers/volunteers. You will need to work with the finance coordinator to ensure you are within budget.
+
+You will need to work with local vendors. All items have to be at the venue ahead of the event. You will have to work with the venue coordinator and the registration coordinator to ensure that all items are delivered to the correct location.
 
 
 ---
 
 # Venue Organizer
 
-Venue and food represent the majority of the conference budget. Your job directly affects every other functional area and impacts the conference budget. The venue determines how many attendees can come, how many sponsorships can be sold, the food options, A/V placement, etc.
+Venue and AV represent the majority of the conference budget. Your job directly affects every other functional area and impacts the conference budget. The venue determines how many attendees can come, how many sponsorships can be sold, the A/V, etc.
 
 ## Role description
 
-The venue lead is responsible for making sure that the venue is setup to run the conference. This includes making sure that there's:
+The venue lead is responsible for making sure that the venue is setup to run the conference. This includes making sure that:
 
-- Space for sponsors to set up their tables.
-- Room for food/beverage/hallway track.
-- At least two stages for talks.
+- There is at least two stages for talks.
+- All talks can be recorded.
+- The venue is within budget.
+- The venue is within walking distance to local lunch spots and easily accessible by local public transit.
+- There is space for sponsors to set up their tables, if you want to offer tables.
+- There is room for beverage/light snack area.
+- The venue is easily accessible for all attendees, especially anyone with disabilities.
 
-The venue lead is the key to making sure the event happens. Your job is to make sure that the venue has all the space and equipment to put on a great conference. You'll also be coordinating with many of your fellow leads so that their functional areas are set up for success.
+Finding the venue is the key to making sure the event happens. Your job is to make sure that the venue has all the space and equipment to put on a great conference. You'll also be coordinating with many of your fellow leads so that their functional areas are set up for success.
 
 ---
 
@@ -118,7 +131,7 @@ The volunteers are the heart of the event execution. This group of folks take on
 
 ## Role description
 
-The Volunteer Organizer role is responsible for recruiting, organizing, and managing the volunteers for the event.
+The Volunteer Organizer role is responsible for recruiting, organizing, and managing the volunteers for the event. You will work with many of the other leads to ensure all areas are covered. Areas of coverage will include: Registration, Track Moderators, Flexible Volunteers, Photographers and Videographers, etc.
 
 ---
 
@@ -126,7 +139,7 @@ The Volunteer Organizer role is responsible for recruiting, organizing, and mana
 
 ## Role description
 
-This organizer role is responsible for creating, updating, and maintaining the rejekts.io website for the city.
+This organizer role is responsible for updating and maintaining the rejekts.io website for the city.
 
 
 ---
