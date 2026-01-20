@@ -1,6 +1,6 @@
 # Finance
 
-Ensure the budget is created and maintained. Pay all the things. Interface with ConferenceOps.
+Ensure the budget is created and maintained. Pay all the things. Interface with ConferenceOps, our third-party vendor.
 
 ## Role description
 
