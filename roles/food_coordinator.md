@@ -5,3 +5,5 @@ Historically, Rejekts does not provide lunch. We encourage folks to venture arou
 ## Role description
 
 Your job is to make sure that the attendees get good quality coffee (including tea and other beverages) upon arrival and some light food like pastries and fruit.
+
+Additional task is to provide a local list of possible lunch options for attendees, within walking distance with various dietary options.
