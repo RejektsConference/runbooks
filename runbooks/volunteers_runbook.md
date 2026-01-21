@@ -38,6 +38,7 @@
 * Write and share a communication plan with the group (e.g., where will day-of communication happen? What's the reporting structure or who's on call for what?)
 * Write and share a volunteer info doc
 * Check that all volunteers have travel plans in place for being there on time.
+* Ensure all volunteers understand, and are comfortable with, the Code of Conduct incident handling process.
 
 ### The Week Before
 
@@ -51,6 +52,7 @@
 
 ### The Day Of
 
+* Perform a mandatory staff meeting with all volunteers to ensure they are familiar with the Code of Conduct incident handling process
 * Make sure all volunteers are where they need to be.
 * Walk the venue and check in on volunteers.
 * Monitor Slack to see if volunteers need any help.
