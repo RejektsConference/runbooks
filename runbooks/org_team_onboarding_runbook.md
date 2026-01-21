@@ -16,10 +16,11 @@ Handle setting up and onboarding of new team members for the organisation team f
 * Put out a call-for-volunteers form
   * Announce on socials
   * Reach out to known local community members for recommendations and interest
+* Review runbooks and roles for updates needed from previous feedback and retros
 * Create a new event-specific GitHub team on GitHub (e.g. [Amsterdam 26 Org Team](https://github.com/orgs/RejektsConference/teams/amsterdam-26-org-team))
 * Create a new event-specific private repo (e.g. `amsterdam-26`) for storing all relevant documents and tracking issues
 * Setup a new Project board on GitHub for the new event
-* Give admin permissions to Repo and Project boards to the Org Team
+* Give admin permissions to Repo and Project boards to the new Org Team
 
 ### Kickoff
 
@@ -28,6 +29,7 @@ Handle setting up and onboarding of new team members for the organisation team f
   * Assign roles and responsibilities to each team member
   * Collect all volunteers GitHub usernames
 * Add all Org Team volunteers as members of the new GitHub team
+* Reach out to responsibility roles and provide access to needed credentials and services
 
 ### Post Conference
 
