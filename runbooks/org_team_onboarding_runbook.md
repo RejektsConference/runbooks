@@ -41,7 +41,7 @@ Handle setting up and onboarding of new team members for the organisation team f
       --method PUT \
       -H "Accept: application/vnd.github+json" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
-      /orgs/RejektsConference/teams/$TEAM_NAME$/memberships/$USER \
+      /orgs/RejektsConference/teams/$TEAM_NAME/memberships/$USER \
       -f 'role=member'
     ```
 
