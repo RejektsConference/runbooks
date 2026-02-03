@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
 
       - name: Run merge script
         run: |
@@ -29,7 +31,18 @@ jobs:
           done
 
       - name: Commit and push changes
+        env:
+          SSH_AUTH_SOCK: /tmp/ssh_agent.sock
         run: |
+          mkdir -p ~/.ssh/
+          echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/deploy-key
+          chmod 600 ~/.ssh/deploy-key
+          ssh-keyscan -H github.com >> ~/.ssh/known_hosts
+          ssh-agent -a $SSH_AUTH_SOCK > /dev/null
+          ssh-add ~/.ssh/deploy-key
+
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions"
           git add README.md
           if git diff --cached --quiet; then
             echo "No changes to commit."
@@ -37,3 +50,7 @@ jobs:
           fi
           git commit -m "Auto: Merge role .md files into README.md [skip ci]"
           git push
+
+          ssh-add -D
+          rm -rf ~/.ssh/deploy-key
+          rm -rf ~/.ssh/known_hosts
