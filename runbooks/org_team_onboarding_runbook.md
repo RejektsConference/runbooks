@@ -35,13 +35,13 @@ Handle setting up and onboarding of new team members for the organisation team f
 
     ```shell
     TEAM_NAME="org-team-amsterdam-2026"
-    USER="XXX"
+    REJEKTS_USER="XXX"
 
     gh api \
       --method PUT \
       -H "Accept: application/vnd.github+json" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
-      /orgs/RejektsConference/teams/$TEAM_NAME/memberships/$USER \
+      /orgs/RejektsConference/teams/$TEAM_NAME/memberships/$REJEKTS_USER \
       -f 'role=member'
     ```
 
