@@ -7,6 +7,8 @@
 - Plan with volunteer coordinator for necessary staffing for timing team.
 - Work with the venue to meet A/V vendor needs and sponsor needs (power drops, strips, and monitors).
 - Provide a list of local A/V rental solutions for sponsors.
+- Procure all of the AV sides for each speaker. Might need to work with a designer.
+- Ensure all of the accurate slides are used for the recordings, especially ones which show sponsors.
 - Review vendor footage to ensure all recordings are good.
 - Upload all recordings to YouTube channel.
 
@@ -40,6 +42,7 @@
 ### The Week Before
 
 - By now, all timing should be finalized for the vendor to arrive at the venue. Ensure it's on the master schedule.
+- Ensure all of the slides are designed for the recording. This might be done by a designer but needs to be driven by the AV team. The slides have to feature sponsors as dictated in the prospectus.
 
 ### The Day Before
 
